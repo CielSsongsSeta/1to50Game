@@ -1,0 +1,36 @@
+﻿빌드 시작: 2013-06-28 오후 3:55:20
+     1>2 노드의 "F:\대학&취업\한국IT직업전문학교 2학년\게임툴프로그래밍(1학기)\겜플2B_김송미_mfc중간과제\1to50\1to50.vcxproj" 프로젝트(build 대상)입니다.
+     1>PrepareForBuild:
+         "F:\대학&취업\한국IT직업전문학교 2학년\게임툴프로그래밍(1학기)\겜플2B_김송미_mfc중간과제\Release\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\1to50.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\1to50.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\1to50.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 1to50.cpp 1to50Doc.cpp 1to50View.cpp MainFrm.cpp
+         1to50.cpp
+         1to50Doc.cpp
+         1to50View.cpp
+         MainFrm.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IRelease\ /nologo /fo"Release\1to50.res" 1to50.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\대학&취업\한국IT직업전문학교 2학년\게임툴프로그래밍(1학기)\겜플2B_김송미_mfc중간과제\Release\1to50.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\1to50.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\대학&취업\한국IT직업전문학교 2학년\게임툴프로그래밍(1학기)\겜플2B_김송미_mfc중간과제\Release\1to50.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\대학&취업\한국IT직업전문학교 2학년\게임툴프로그래밍(1학기)\겜플2B_김송미_mfc중간과제\Release\1to50.lib" /MACHINE:X86 Release\1to50.res
+         Release\1to50.obj
+         Release\1to50Doc.obj
+         Release\1to50View.obj
+         Release\MainFrm.obj
+         Release\stdafx.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         1to50.vcxproj -> F:\대학&취업\한국IT직업전문학교 2학년\게임툴프로그래밍(1학기)\겜플2B_김송미_mfc중간과제\Release\1to50.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\대학&취업\한국IT직업전문학교 2학년\게임툴프로그래밍(1학기)\겜플2B_김송미_mfc중간과제\Release\1to50.exe;#1" /manifest Release\1to50.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         "Release\1to50.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\1to50.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"F:\대학&취업\한국IT직업전문학교 2학년\게임툴프로그래밍(1학기)\겜플2B_김송미_mfc중간과제\1to50\1to50.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.63
